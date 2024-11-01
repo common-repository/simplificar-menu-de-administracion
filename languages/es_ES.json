@@ -1,0 +1,8 @@
+{"domain":"jlwebcom-simplificar-adminmenu",
+"locale_data":{"jlwebcom-simplificar-adminmenu":{"":{"domain":"jlwebcom-simplificar-adminmenu",
+"plural-forms":"nplurals=2; plural=n != 1;",
+"lang":"es"},
+"Ocultar opciones de menú":["Ocultar opciones de menú"],
+"(Marca las opciones que desees ocultar a los usuarios)":["(Marca las opciones que desees ocultar a los usuarios)"],
+"Guardar":["Guardar"]
+}}}
